@@ -1,6 +1,6 @@
 # Pitch Frequency Calculator
 
-MATLAB program to find the pitch frequency of the desired `.wave` file and plot the results.
+`MATLAB` program to find the pitch frequency of the desired `.wave` file and plot the results.
 
 
 <br/>
