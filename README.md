@@ -21,6 +21,8 @@ git clone  https://github.com/mohammadJaliliTorkamani/Pitch-Frequency-Calculator
 
 3. Run the script
 
+<br/>
+
 ## Outputs
 | High passed liftered Cepstrum   |  High passed smooth Liftered Cepstrum With Peaks  |  Frame in Time domain | Frame in Frequency domain  | Pitch Frequency  |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
