@@ -20,6 +20,9 @@ git clone  https://github.com/mohammadJaliliTorkamani/Pitch-Frequency-Calculator
 
 3. Run the script
 
-## Outspits
-|  High passed liftered Cepstrum   |  High passed smooth Liftered Cepstrum With Peaks  |
-| ![scr1](https://github.com/mohammadJaliliTorkamani/Pitch-Frequency-Calculator/blob/master/Screenshots/cepstrum%20flattened%20high%20passed%20liftered.PNG "scr1") | ![scr2](https://github.com/mohammadJaliliTorkamani/Pitch-Frequency-Calculator/blob/master/Screenshots/Cepstrum%20with%20ligh%20pass%20lifter.PNG "scr2") |
+## Outputs
+| High passed liftered Cepstrum   |  High passed smooth Liftered Cepstrum With Peaks  |  Frame in Time domain | Frame in Frequency domain  | Pitch Frequency  |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+|  ![scr1](https://github.com/mohammadJaliliTorkamani/Pitch-Frequency-Calculator/blob/master/Screenshots/Cepstrum%20with%20ligh%20pass%20lifter.PNG "scr1") |  ![scr1](https://github.com/mohammadJaliliTorkamani/Pitch-Frequency-Calculator/blob/master/Screenshots/Cepstrum%20with%20ligh%20pass%20lifter.PNG "scr1") | ![scr1](https://github.com/mohammadJaliliTorkamani/Pitch-Frequency-Calculator/blob/master/Screenshots/Cepstrum%20with%20ligh%20pass%20lifter.PNG "scr1")  |  ![scr1](https://github.com/mohammadJaliliTorkamani/Pitch-Frequency-Calculator/blob/master/Screenshots/Cepstrum%20with%20ligh%20pass%20lifter.PNG "scr1") | ![scr1](https://github.com/mohammadJaliliTorkamani/Pitch-Frequency-Calculator/blob/master/Screenshots/Cepstrum%20with%20ligh%20pass%20lifter.PNG "scr1")  |
+
+
