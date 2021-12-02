@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%  Mohammad Jalili Torkamani   %
-%     Student No : 9523783     %
+%   Mohammad Jalili Torkamani  %
+%     Student No : 95****3     %
 %       Speech Processing      %
 %     Kh.N.Toosi University    %
 %          Dr.R.Doost          %
